@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=nm\ IC\ jb\ depend\ sal
+comment0.target=Zakat(java.lang.String,\ long,\ java.lang.String,\ int,\ double)
+comment1.params=zakat
+comment1.target=Zakat(Zakat)
+comment10.params=sal
+comment10.target=void\ setSalary(double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getJob()
+comment4.params=
+comment4.target=long\ getIc()
+comment5.params=
+comment5.target=int\ getDependent()
+comment6.params=
+comment6.target=double\ getSalary()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=jb
+comment8.target=void\ setJob(java.lang.String)
+comment9.params=depend
+comment9.target=void\ setDepend(int)
+numComments=11

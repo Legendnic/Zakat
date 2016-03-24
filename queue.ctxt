@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=queue()
+comment1.params=
+comment1.target=boolean\ empty()
+comment2.params=insert
+comment2.target=void\ enqueue(Zakat)
+comment3.params=
+comment3.target=Zakat\ dequeue()
+numComments=4
